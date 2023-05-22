@@ -1,0 +1,803 @@
+[21-Aug-2020 05:11:34 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'abel'@'localhost' (using password: YES) in /home/citigrdm/public_html/online/uradminportal/dbcon.php on line 2
+[21-Aug-2020 05:24:03 America/New_York] PHP Notice:  Undefined index: id in /home/citigrdm/public_html/online/urbackend/session.php on line 11
+[21-Aug-2020 05:24:03 America/New_York] PHP Notice:  Undefined index: id in /home/citigrdm/public_html/online/urbackend/session.php on line 11
+[21-Aug-2020 05:24:03 America/New_York] PHP Notice:  Undefined index: id in /home/citigrdm/public_html/online/urbackend/session.php on line 11
+[21-Aug-2020 05:33:22 America/New_York] PHP Notice:  Undefined variable: message in /home/citigrdm/public_html/online/urbackend/activate-account.php on line 707
+[21-Aug-2020 05:39:15 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 143
+[21-Aug-2020 05:39:15 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 146
+[21-Aug-2020 05:39:15 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 143
+[21-Aug-2020 05:39:15 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 146
+[21-Aug-2020 05:39:15 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 143
+[21-Aug-2020 05:39:15 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 146
+[21-Aug-2020 05:39:52 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 145
+[21-Aug-2020 05:39:52 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 148
+[21-Aug-2020 05:39:52 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 145
+[21-Aug-2020 05:39:52 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 148
+[21-Aug-2020 05:39:52 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 145
+[21-Aug-2020 05:39:52 America/New_York] PHP Notice:  Undefined index: online_status in /home/citigrdm/public_html/online/urbackend/user-log.php on line 148
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'abel'@'localhost' (using password: YES) in /home/bluesdfa/sowertrade.com/urbackend/dbcon.php on line 2
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'abel'@'localhost' (using password: YES) in /home/bluesdfa/sowertrade.com/urbackend/dbcon.php on line 2
+[12-Oct-2020 10:03:02 America/New_York] PHP Notice:  Undefined index: id in /home/bluesdfa/sowertrade.com/urbackend/session.php on line 11
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bluesdfa/sowertrade.com/urbackend/session.php on line 13
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bluesdfa/sowertrade.com/urbackend/session.php on line 14
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'abel'@'localhost' (using password: YES) in /home/bluesdfa/sowertrade.com/urbackend/dbcon.php on line 2
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'abel'@'localhost' (using password: YES) in /home/bluesdfa/sowertrade.com/urbackend/dbcon.php on line 2
+[12-Oct-2020 10:03:02 America/New_York] PHP Notice:  Undefined index: id in /home/bluesdfa/sowertrade.com/urbackend/session.php on line 11
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bluesdfa/sowertrade.com/urbackend/session.php on line 13
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bluesdfa/sowertrade.com/urbackend/session.php on line 14
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'abel'@'localhost' (using password: YES) in /home/bluesdfa/sowertrade.com/urbackend/dbcon.php on line 2
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'abel'@'localhost' (using password: YES) in /home/bluesdfa/sowertrade.com/urbackend/dbcon.php on line 2
+[12-Oct-2020 10:03:02 America/New_York] PHP Notice:  Undefined index: id in /home/bluesdfa/sowertrade.com/urbackend/session.php on line 11
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bluesdfa/sowertrade.com/urbackend/session.php on line 13
+[12-Oct-2020 10:03:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bluesdfa/sowertrade.com/urbackend/session.php on line 14
+[12-Oct-2020 10:03:03 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'abel'@'localhost' (using password: YES) in /home/bluesdfa/sowertrade.com/urbackend/dbcon.php on line 2
+[15-Oct-2020 20:35:41 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Oct-2020 20:35:41 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Oct-2020 20:35:41 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Oct-2020 20:35:41 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 20:35:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 4
+[15-Oct-2020 20:35:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 5
+[15-Oct-2020 20:35:41 America/New_York] PHP Notice:  Undefined variable: formatted_ref in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 10
+[15-Oct-2020 20:35:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 18
+[15-Oct-2020 20:35:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 19
+[15-Oct-2020 20:35:41 America/New_York] PHP Notice:  Undefined variable: formatted_drw in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 24
+[15-Oct-2020 20:35:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 66
+[15-Oct-2020 20:35:41 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 20:35:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 4
+[15-Oct-2020 20:35:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 5
+[15-Oct-2020 20:35:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 51
+[15-Oct-2020 20:36:09 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 20:36:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 4
+[15-Oct-2020 20:36:09 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 5
+[15-Oct-2020 20:36:09 America/New_York] PHP Notice:  Undefined variable: formatted_ref in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 10
+[15-Oct-2020 20:36:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 18
+[15-Oct-2020 20:36:09 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 19
+[15-Oct-2020 20:36:09 America/New_York] PHP Notice:  Undefined variable: formatted_drw in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 24
+[15-Oct-2020 20:36:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 66
+[15-Oct-2020 20:36:09 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 20:36:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 4
+[15-Oct-2020 20:36:09 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 5
+[15-Oct-2020 20:36:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 51
+[15-Oct-2020 20:38:13 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 20:38:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 4
+[15-Oct-2020 20:38:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 5
+[15-Oct-2020 20:38:13 America/New_York] PHP Notice:  Undefined variable: formatted_ref in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 10
+[15-Oct-2020 20:38:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 18
+[15-Oct-2020 20:38:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 19
+[15-Oct-2020 20:38:13 America/New_York] PHP Notice:  Undefined variable: formatted_drw in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 24
+[15-Oct-2020 20:38:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 66
+[15-Oct-2020 20:38:13 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 20:38:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 4
+[15-Oct-2020 20:38:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 5
+[15-Oct-2020 20:38:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 51
+[15-Oct-2020 20:39:07 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 20:39:07 America/New_York] PHP Notice:  Undefined variable: customer_image in /home/zictevvd/cryptoean.com/eu/uradmin/users.php on line 196
+[15-Oct-2020 20:39:09 America/New_York] PHP Notice:  Undefined variable: customer_image in /home/zictevvd/cryptoean.com/eu/uradmin/users.php on line 196
+[15-Oct-2020 20:39:14 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 20:39:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 4
+[15-Oct-2020 20:39:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 5
+[15-Oct-2020 20:39:14 America/New_York] PHP Notice:  Undefined variable: formatted_ref in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 10
+[15-Oct-2020 20:39:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 18
+[15-Oct-2020 20:39:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 19
+[15-Oct-2020 20:39:14 America/New_York] PHP Notice:  Undefined variable: formatted_drw in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 24
+[15-Oct-2020 20:39:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 66
+[15-Oct-2020 20:39:14 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 20:39:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 4
+[15-Oct-2020 20:39:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 5
+[15-Oct-2020 20:39:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 51
+[15-Oct-2020 20:39:19 America/New_York] PHP Notice:  Undefined variable: customer_image in /home/zictevvd/cryptoean.com/eu/uradmin/users.php on line 196
+[15-Oct-2020 22:39:32 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Oct-2020 22:39:32 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Oct-2020 22:39:48 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 22:39:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 4
+[15-Oct-2020 22:39:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 5
+[15-Oct-2020 22:39:48 America/New_York] PHP Notice:  Undefined variable: formatted_ref in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 10
+[15-Oct-2020 22:39:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 18
+[15-Oct-2020 22:39:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 19
+[15-Oct-2020 22:39:48 America/New_York] PHP Notice:  Undefined variable: formatted_drw in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 24
+[15-Oct-2020 22:39:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 66
+[15-Oct-2020 22:39:48 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 22:39:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 4
+[15-Oct-2020 22:39:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 5
+[15-Oct-2020 22:39:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 51
+[15-Oct-2020 22:40:19 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 22:40:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 4
+[15-Oct-2020 22:40:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 5
+[15-Oct-2020 22:40:19 America/New_York] PHP Notice:  Undefined variable: formatted_ref in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 10
+[15-Oct-2020 22:40:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 18
+[15-Oct-2020 22:40:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 19
+[15-Oct-2020 22:40:19 America/New_York] PHP Notice:  Undefined variable: formatted_drw in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 24
+[15-Oct-2020 22:40:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 66
+[15-Oct-2020 22:40:19 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 22:40:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 4
+[15-Oct-2020 22:40:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 5
+[15-Oct-2020 22:40:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 51
+[15-Oct-2020 22:40:23 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 22:40:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 4
+[15-Oct-2020 22:40:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 5
+[15-Oct-2020 22:40:23 America/New_York] PHP Notice:  Undefined variable: formatted_ref in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 10
+[15-Oct-2020 22:40:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 18
+[15-Oct-2020 22:40:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 19
+[15-Oct-2020 22:40:23 America/New_York] PHP Notice:  Undefined variable: formatted_drw in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 24
+[15-Oct-2020 22:40:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 66
+[15-Oct-2020 22:40:23 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 22:40:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 4
+[15-Oct-2020 22:40:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 5
+[15-Oct-2020 22:40:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 51
+[15-Oct-2020 22:40:31 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 22:41:14 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 22:41:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 4
+[15-Oct-2020 22:41:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 5
+[15-Oct-2020 22:41:14 America/New_York] PHP Notice:  Undefined variable: formatted_ref in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 10
+[15-Oct-2020 22:41:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 18
+[15-Oct-2020 22:41:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 19
+[15-Oct-2020 22:41:14 America/New_York] PHP Notice:  Undefined variable: formatted_drw in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 24
+[15-Oct-2020 22:41:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 66
+[15-Oct-2020 22:41:14 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 22:41:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 4
+[15-Oct-2020 22:41:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 5
+[15-Oct-2020 22:41:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 51
+[15-Oct-2020 22:44:21 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 22:44:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 4
+[15-Oct-2020 22:44:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 5
+[15-Oct-2020 22:44:21 America/New_York] PHP Notice:  Undefined variable: formatted_ref in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 10
+[15-Oct-2020 22:44:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 18
+[15-Oct-2020 22:44:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 19
+[15-Oct-2020 22:44:21 America/New_York] PHP Notice:  Undefined variable: formatted_drw in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 24
+[15-Oct-2020 22:44:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 66
+[15-Oct-2020 22:44:21 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[15-Oct-2020 22:44:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 4
+[15-Oct-2020 22:44:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 5
+[15-Oct-2020 22:44:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 51
+[16-Oct-2020 08:54:12 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Oct-2020 08:54:12 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Oct-2020 08:54:12 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Oct-2020 08:54:12 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[16-Oct-2020 08:54:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 4
+[16-Oct-2020 08:54:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 5
+[16-Oct-2020 08:54:12 America/New_York] PHP Notice:  Undefined variable: formatted_ref in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 10
+[16-Oct-2020 08:54:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 18
+[16-Oct-2020 08:54:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 19
+[16-Oct-2020 08:54:12 America/New_York] PHP Notice:  Undefined variable: formatted_drw in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 24
+[16-Oct-2020 08:54:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 66
+[16-Oct-2020 08:54:12 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[16-Oct-2020 08:54:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 4
+[16-Oct-2020 08:54:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 5
+[16-Oct-2020 08:54:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 51
+[16-Oct-2020 08:54:30 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[16-Oct-2020 08:54:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 4
+[16-Oct-2020 08:54:30 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 5
+[16-Oct-2020 08:54:30 America/New_York] PHP Notice:  Undefined variable: formatted_ref in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 10
+[16-Oct-2020 08:54:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 18
+[16-Oct-2020 08:54:30 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 19
+[16-Oct-2020 08:54:30 America/New_York] PHP Notice:  Undefined variable: formatted_drw in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 24
+[16-Oct-2020 08:54:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction2.php on line 66
+[16-Oct-2020 08:54:30 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bluesdfa_sower_user'@'localhost' (using password: YES) in /home/zictevvd/cryptoean.com/eu/uradmin/conn.php on line 2
+[16-Oct-2020 08:54:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 4
+[16-Oct-2020 08:54:30 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 5
+[16-Oct-2020 08:54:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zictevvd/cryptoean.com/eu/uradmin/current_transaction.php on line 51
+[16-Oct-2020 09:05:00 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Oct-2020 09:05:00 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Oct-2020 19:30:53 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Oct-2020 19:30:53 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Oct-2020 19:30:53 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Oct-2020 20:09:23 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Oct-2020 20:09:23 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[17-Oct-2020 10:01:00 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[17-Oct-2020 10:01:00 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 01:07:45 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 01:07:45 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 01:09:30 America/New_York] PHP Notice:  Undefined variable: customer_image in /home/zictevvd/cryptoean.com/eu/uradmin/users.php on line 196
+[18-Oct-2020 03:44:43 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 03:44:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 03:46:45 America/New_York] PHP Notice:  Undefined variable: customer_image in /home/zictevvd/cryptoean.com/eu/uradmin/users.php on line 196
+[18-Oct-2020 06:43:25 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 06:43:25 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 06:43:25 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 06:44:21 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 06:44:21 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 06:44:21 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 06:44:25 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 06:44:25 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 06:44:25 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 06:44:33 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 06:44:33 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 06:44:33 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 09:07:39 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 09:07:39 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 09:07:39 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 09:09:01 America/New_York] PHP Notice:  Undefined variable: customer_image in /home/zictevvd/cryptoean.com/eu/uradmin/users.php on line 196
+[18-Oct-2020 15:44:54 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 15:44:54 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 15:44:54 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 16:44:55 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 16:44:55 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 17:07:41 America/New_York] PHP Notice:  Undefined variable: withdral_pending in /home/zictevvd/cryptoean.com/eu/uradmin/approve-withdrawal.php on line 44
+[18-Oct-2020 17:09:05 America/New_York] PHP Notice:  Undefined variable: withdral_pending in /home/zictevvd/cryptoean.com/eu/uradmin/approve-withdrawal.php on line 44
+[18-Oct-2020 17:16:42 America/New_York] PHP Notice:  Undefined variable: customer_image in /home/zictevvd/cryptoean.com/eu/uradmin/users.php on line 196
+[18-Oct-2020 17:21:09 America/New_York] PHP Notice:  Undefined variable: customer_image in /home/zictevvd/cryptoean.com/eu/uradmin/users.php on line 196
+[18-Oct-2020 17:21:14 America/New_York] PHP Notice:  Undefined variable: customer_image in /home/zictevvd/cryptoean.com/eu/uradmin/users.php on line 196
+[18-Oct-2020 17:22:55 America/New_York] PHP Notice:  Undefined variable: customer_image in /home/zictevvd/cryptoean.com/eu/uradmin/users.php on line 196
+[18-Oct-2020 17:23:43 America/New_York] PHP Notice:  Undefined variable: customer_image in /home/zictevvd/cryptoean.com/eu/uradmin/users.php on line 196
+[18-Oct-2020 18:02:07 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Oct-2020 18:02:07 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 01:47:52 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 01:47:52 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 02:32:39 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 02:32:39 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 05:03:38 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 05:03:38 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 05:03:38 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 05:07:22 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 05:07:22 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 05:07:22 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 09:27:07 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 09:27:07 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 10:06:48 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Oct-2020 10:06:48 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Oct-2020 08:50:19 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Oct-2020 08:50:19 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Oct-2020 08:50:19 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Oct-2020 08:50:38 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Oct-2020 08:50:38 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[21-Oct-2020 21:42:47 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[21-Oct-2020 21:42:47 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[21-Oct-2020 21:42:47 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[23-Oct-2020 09:08:15 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[23-Oct-2020 09:08:15 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[24-Oct-2020 23:02:37 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[24-Oct-2020 23:02:37 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Oct-2020 06:47:47 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Oct-2020 06:47:47 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Oct-2020 06:47:47 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Oct-2020 07:18:20 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Oct-2020 07:18:20 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[29-Oct-2020 09:06:49 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[29-Oct-2020 09:06:49 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 07:35:48 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 07:35:48 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 07:35:48 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 08:42:46 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 08:42:46 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 10:33:14 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 10:33:14 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 19:37:30 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 19:37:30 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 20:44:28 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 20:44:28 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 21:46:19 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 21:46:19 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Oct-2020 21:46:19 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[04-Nov-2020 03:44:49 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[04-Nov-2020 03:44:49 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[04-Nov-2020 03:44:49 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[04-Nov-2020 05:58:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[04-Nov-2020 05:58:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[04-Nov-2020 05:58:54 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[04-Nov-2020 05:58:54 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[06-Nov-2020 01:45:41 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[06-Nov-2020 01:45:41 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[12-Nov-2020 20:21:56 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[12-Nov-2020 20:21:56 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[14-Nov-2020 05:57:43 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[14-Nov-2020 05:57:43 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[14-Nov-2020 05:57:43 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[14-Nov-2020 07:41:30 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[14-Nov-2020 07:41:30 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Nov-2020 07:36:43 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Nov-2020 07:36:43 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Nov-2020 07:36:43 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Nov-2020 20:37:57 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Nov-2020 20:37:57 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Nov-2020 20:37:57 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Nov-2020 04:49:05 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Nov-2020 04:49:05 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[16-Nov-2020 04:49:05 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Nov-2020 06:03:49 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Nov-2020 06:03:49 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Nov-2020 10:50:05 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Nov-2020 10:50:05 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Nov-2020 10:50:05 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Nov-2020 18:22:07 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Nov-2020 18:22:07 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Nov-2020 20:52:00 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Nov-2020 20:52:00 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[22-Nov-2020 08:56:21 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[22-Nov-2020 08:56:21 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[22-Nov-2020 08:56:21 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[23-Nov-2020 21:54:02 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[23-Nov-2020 21:54:02 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[24-Nov-2020 03:11:24 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[24-Nov-2020 03:11:24 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[24-Nov-2020 03:12:33 America/New_York] PHP Notice:  Undefined variable: status in /home/zictevvd/cryptoean.com/eu/uradmin/pulse-investment.php on line 18
+[24-Nov-2020 03:12:33 America/New_York] PHP Notice:  Undefined variable: status in /home/zictevvd/cryptoean.com/eu/uradmin/pulse-investment.php on line 26
+[24-Nov-2020 03:12:40 America/New_York] PHP Notice:  Undefined variable: status in /home/zictevvd/cryptoean.com/eu/uradmin/pulse-investment.php on line 18
+[24-Nov-2020 03:12:40 America/New_York] PHP Notice:  Undefined variable: status in /home/zictevvd/cryptoean.com/eu/uradmin/pulse-investment.php on line 26
+[24-Nov-2020 16:49:26 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[24-Nov-2020 16:49:26 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[24-Nov-2020 16:49:26 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Nov-2020 02:52:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Nov-2020 02:52:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Nov-2020 02:52:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Nov-2020 06:31:06 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Nov-2020 06:31:06 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Nov-2020 14:11:01 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Nov-2020 14:11:01 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Nov-2020 14:11:01 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Nov-2020 15:06:19 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[25-Nov-2020 15:06:19 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[27-Nov-2020 03:41:19 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[27-Nov-2020 03:41:19 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[27-Nov-2020 03:41:19 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[27-Nov-2020 04:08:10 America/New_York] PHP Fatal error:  Function name must be a string in /home/zictevvd/cryptoean.com/eu/uradmin/password-update.php on line 228
+[27-Nov-2020 04:09:43 America/New_York] PHP Fatal error:  Function name must be a string in /home/zictevvd/cryptoean.com/eu/uradmin/password-update.php on line 228
+[27-Nov-2020 04:14:08 America/New_York] PHP Fatal error:  Function name must be a string in /home/zictevvd/cryptoean.com/eu/uradmin/password-update.php on line 228
+[27-Nov-2020 04:15:12 America/New_York] PHP Fatal error:  Function name must be a string in /home/zictevvd/cryptoean.com/eu/uradmin/password-update.php on line 14
+[27-Nov-2020 04:20:26 America/New_York] PHP Notice:  Undefined variable: username in /home/zictevvd/cryptoean.com/eu/uradmin/password-update.php on line 34
+[27-Nov-2020 13:35:14 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[27-Nov-2020 13:35:14 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[27-Nov-2020 14:15:28 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[27-Nov-2020 14:15:28 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[29-Nov-2020 11:55:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[29-Nov-2020 11:55:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[29-Nov-2020 11:55:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Nov-2020 01:52:42 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Nov-2020 01:52:42 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Nov-2020 01:52:42 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Nov-2020 05:11:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Nov-2020 05:11:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Nov-2020 05:11:44 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Nov-2020 06:36:15 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Nov-2020 06:36:15 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[30-Nov-2020 06:36:15 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[01-Dec-2020 09:46:53 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[01-Dec-2020 09:46:53 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[01-Dec-2020 21:29:25 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[01-Dec-2020 21:29:25 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[01-Dec-2020 22:10:13 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[01-Dec-2020 22:10:13 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[01-Dec-2020 22:11:57 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[01-Dec-2020 22:11:57 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[01-Dec-2020 22:11:57 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[03-Dec-2020 21:16:31 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[03-Dec-2020 21:16:31 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[03-Dec-2020 21:16:31 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[05-Dec-2020 10:05:16 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[05-Dec-2020 10:05:16 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[05-Dec-2020 10:05:16 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[05-Dec-2020 14:42:58 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[05-Dec-2020 14:42:58 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[05-Dec-2020 14:42:58 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[08-Dec-2020 04:07:20 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[08-Dec-2020 04:07:20 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[08-Dec-2020 04:07:20 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[10-Dec-2020 16:25:32 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[10-Dec-2020 16:25:32 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[10-Dec-2020 16:25:32 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[11-Dec-2020 01:19:48 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[11-Dec-2020 01:19:48 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[11-Dec-2020 05:34:04 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[11-Dec-2020 05:34:04 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[11-Dec-2020 17:05:37 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[11-Dec-2020 17:05:37 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[11-Dec-2020 17:05:37 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[13-Dec-2020 11:37:02 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[13-Dec-2020 11:37:02 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[13-Dec-2020 17:01:01 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[13-Dec-2020 17:01:01 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[13-Dec-2020 17:01:01 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Dec-2020 02:51:15 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[15-Dec-2020 02:51:15 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[17-Dec-2020 14:50:13 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[17-Dec-2020 14:50:13 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Dec-2020 06:18:58 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Dec-2020 06:18:58 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Dec-2020 06:18:58 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Dec-2020 07:07:52 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Dec-2020 07:07:52 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[18-Dec-2020 07:07:52 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 06:10:28 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 06:10:28 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 06:10:28 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 06:22:20 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 06:22:20 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 06:53:04 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 06:53:04 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 15:51:00 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 15:51:01 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 15:51:01 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 15:51:12 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 15:51:12 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 15:51:12 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 15:51:30 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 15:51:30 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[19-Dec-2020 15:51:30 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Dec-2020 08:52:52 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Dec-2020 08:52:52 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Dec-2020 09:14:48 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Dec-2020 09:14:48 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[20-Dec-2020 09:14:48 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[21-Dec-2020 07:25:11 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[21-Dec-2020 07:25:11 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[21-Dec-2020 09:59:43 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[21-Dec-2020 09:59:43 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[21-Dec-2020 09:59:43 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[22-Dec-2020 12:03:51 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[22-Dec-2020 12:03:51 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[22-Dec-2020 13:18:36 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[22-Dec-2020 13:18:36 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[23-Dec-2020 01:51:25 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[23-Dec-2020 01:51:25 America/New_York] PHP Notice:  Undefined index: id in /home/zictevvd/cryptoean.com/eu/uradmin/session.php on line 11
+[24-Dec-2020 07:32:33 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Dec-2020 07:32:33 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Dec-2020 07:32:33 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Dec-2020 11:14:24 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Dec-2020 11:14:24 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Dec-2020 11:14:24 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Dec-2020 13:10:32 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Dec-2020 13:10:32 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Dec-2020 13:10:32 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Dec-2020 10:25:58 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Dec-2020 10:25:58 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Dec-2020 10:25:58 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Dec-2020 03:00:06 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Dec-2020 03:00:06 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Dec-2020 03:00:06 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[29-Dec-2020 13:03:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[29-Dec-2020 13:03:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[29-Dec-2020 13:03:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[29-Dec-2020 15:33:03 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[29-Dec-2020 15:33:03 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[29-Dec-2020 15:33:03 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Jan-2021 09:44:27 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Jan-2021 09:44:27 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Jan-2021 09:44:27 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Jan-2021 10:08:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Jan-2021 10:08:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Jan-2021 10:08:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Jan-2021 10:11:10 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Jan-2021 10:11:10 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Jan-2021 14:43:36 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Jan-2021 14:43:36 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[02-Jan-2021 15:53:40 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[02-Jan-2021 15:53:40 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[02-Jan-2021 15:53:40 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Jan-2021 11:37:35 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Jan-2021 11:37:35 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Jan-2021 11:37:35 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Jan-2021 09:22:35 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Jan-2021 09:22:35 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Jan-2021 09:22:35 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Jan-2021 10:36:23 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 18
+[04-Jan-2021 10:36:23 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 26
+[04-Jan-2021 15:56:45 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Jan-2021 15:56:45 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[05-Jan-2021 15:44:46 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[05-Jan-2021 15:44:46 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[05-Jan-2021 15:44:46 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[05-Jan-2021 23:47:11 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[05-Jan-2021 23:47:11 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[05-Jan-2021 23:47:11 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 01:58:19 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 01:58:19 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 05:08:37 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 05:08:37 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 06:40:12 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 06:40:12 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 06:40:12 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 07:46:57 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 07:46:57 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 17:56:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 17:56:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 17:56:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 20:09:13 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 20:09:13 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 20:09:13 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 20:13:06 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 18
+[06-Jan-2021 20:13:06 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 26
+[06-Jan-2021 20:13:16 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 18
+[06-Jan-2021 20:13:16 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 26
+[06-Jan-2021 20:52:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 20:52:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[06-Jan-2021 20:52:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[07-Jan-2021 01:41:56 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[07-Jan-2021 01:41:57 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[07-Jan-2021 04:18:54 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[07-Jan-2021 04:18:54 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[07-Jan-2021 04:18:54 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[07-Jan-2021 15:53:29 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[07-Jan-2021 15:53:29 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[07-Jan-2021 15:53:29 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[08-Jan-2021 01:16:48 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[08-Jan-2021 01:16:48 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[08-Jan-2021 01:16:48 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[11-Jan-2021 02:24:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[11-Jan-2021 02:24:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[11-Jan-2021 02:24:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[13-Jan-2021 05:36:15 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[13-Jan-2021 05:36:15 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[13-Jan-2021 05:36:15 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[15-Jan-2021 06:38:06 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[15-Jan-2021 06:38:06 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[15-Jan-2021 06:38:06 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[16-Jan-2021 05:30:21 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[16-Jan-2021 05:30:21 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Jan-2021 03:25:03 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Jan-2021 03:25:03 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Jan-2021 03:25:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Jan-2021 03:25:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Jan-2021 03:25:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Jan-2021 03:25:08 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Jan-2021 03:25:08 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Jan-2021 03:25:08 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Jan-2021 04:29:59 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Jan-2021 04:29:59 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 04:51:23 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 04:51:23 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 04:51:25 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 04:51:25 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 04:51:25 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 04:51:27 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 04:51:27 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 04:51:27 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 06:28:44 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 06:28:44 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 06:28:44 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 09:31:58 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 09:31:58 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 09:31:58 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 12:49:09 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 12:49:09 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 12:49:09 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 12:49:11 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 12:49:11 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 12:49:11 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 12:49:12 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 12:49:12 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 12:49:12 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 14:57:04 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 14:57:04 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 14:57:04 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 17:56:21 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Jan-2021 17:56:21 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Jan-2021 10:16:25 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Jan-2021 10:16:25 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Jan-2021 10:16:25 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Jan-2021 14:12:23 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Jan-2021 14:12:23 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Jan-2021 16:04:30 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Jan-2021 16:04:30 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Jan-2021 20:23:52 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Jan-2021 20:23:52 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Jan-2021 20:23:52 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[20-Jan-2021 06:24:48 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[20-Jan-2021 06:24:48 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[20-Jan-2021 14:37:51 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[20-Jan-2021 14:37:51 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[21-Jan-2021 04:11:27 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[21-Jan-2021 04:11:27 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[23-Jan-2021 10:10:45 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[23-Jan-2021 10:10:45 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[23-Jan-2021 10:10:48 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[23-Jan-2021 10:10:49 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Jan-2021 04:49:19 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Jan-2021 04:49:19 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Jan-2021 10:10:30 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Jan-2021 10:10:30 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Jan-2021 10:10:30 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Jan-2021 12:33:31 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Jan-2021 12:33:31 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Jan-2021 12:33:31 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Jan-2021 16:28:59 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[24-Jan-2021 16:28:59 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[25-Jan-2021 05:02:44 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[25-Jan-2021 05:02:44 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[25-Jan-2021 05:02:44 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[25-Jan-2021 09:27:19 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[25-Jan-2021 09:27:19 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[25-Jan-2021 18:58:58 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[25-Jan-2021 18:58:58 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[25-Jan-2021 18:58:58 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[25-Jan-2021 19:56:11 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[25-Jan-2021 19:56:11 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 13:07:52 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 13:07:53 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 15:10:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 15:10:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 15:10:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 17:07:22 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 17:07:22 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 17:07:22 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 18:45:39 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 18:45:39 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 18:45:39 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 18:45:39 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 18:45:39 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 19:01:37 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 19:01:37 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 19:27:21 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[26-Jan-2021 19:27:21 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[27-Jan-2021 11:38:15 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[27-Jan-2021 11:38:15 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[27-Jan-2021 11:38:15 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[27-Jan-2021 14:44:09 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[27-Jan-2021 14:44:09 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[27-Jan-2021 14:44:09 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 06:15:40 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 06:15:40 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 06:15:40 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 11:27:10 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 11:27:10 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 14:53:18 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 14:53:18 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 14:53:18 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 15:15:49 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 15:15:49 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 15:15:49 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 19:15:01 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 19:15:01 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 21:29:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 21:29:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[28-Jan-2021 21:29:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:47:51 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:47:51 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:48:48 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:48:48 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:48:49 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:48:49 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:48:50 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:48:50 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:49:47 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:49:47 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:50:06 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 06:50:06 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 09:27:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 09:27:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 09:27:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 10:55:37 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[30-Jan-2021 10:55:37 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Feb-2021 04:05:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Feb-2021 04:05:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Feb-2021 08:06:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Feb-2021 08:06:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Feb-2021 09:55:04 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Feb-2021 09:55:04 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Feb-2021 10:34:26 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Feb-2021 10:34:26 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Feb-2021 10:35:17 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[01-Feb-2021 10:35:17 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[02-Feb-2021 16:26:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[02-Feb-2021 16:26:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[02-Feb-2021 17:16:17 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[02-Feb-2021 17:16:17 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[02-Feb-2021 19:47:40 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 18
+[02-Feb-2021 19:47:40 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 26
+[03-Feb-2021 00:21:20 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Feb-2021 00:21:20 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Feb-2021 00:21:20 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Feb-2021 03:37:48 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Feb-2021 03:37:48 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Feb-2021 08:12:05 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Feb-2021 08:12:05 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Feb-2021 10:42:36 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Feb-2021 10:42:36 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[03-Feb-2021 20:22:28 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 18
+[03-Feb-2021 20:22:28 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 26
+[03-Feb-2021 20:22:37 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 18
+[03-Feb-2021 20:22:37 America/New_York] PHP Notice:  Undefined variable: status in /home/direkzou/public_html/en/uradmin/pulse-investment.php on line 26
+[04-Feb-2021 02:12:57 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 02:12:57 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 02:12:57 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 05:13:56 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 05:13:56 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 08:05:01 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 08:05:01 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 11:32:54 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 11:32:54 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 12:07:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 12:07:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 17:49:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 17:49:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 22:01:16 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[04-Feb-2021 22:01:16 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[07-Feb-2021 17:05:57 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[07-Feb-2021 17:05:57 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[07-Feb-2021 17:05:57 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[08-Feb-2021 10:16:42 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[08-Feb-2021 10:16:42 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[08-Feb-2021 11:00:04 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[08-Feb-2021 11:00:04 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[08-Feb-2021 14:37:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[08-Feb-2021 14:37:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 01:20:42 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 01:20:42 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 02:06:30 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 02:06:30 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 02:21:59 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 02:21:59 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 11:53:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 11:53:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 13:18:12 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 13:18:12 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 15:57:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 15:57:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[09-Feb-2021 15:57:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[10-Feb-2021 06:14:31 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[10-Feb-2021 06:14:31 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[10-Feb-2021 08:22:37 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[10-Feb-2021 08:22:37 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[10-Feb-2021 22:29:31 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[10-Feb-2021 22:29:32 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[10-Feb-2021 22:29:32 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[10-Feb-2021 22:32:04 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[10-Feb-2021 22:32:04 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[11-Feb-2021 13:05:26 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[11-Feb-2021 13:05:26 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[11-Feb-2021 13:05:26 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[11-Feb-2021 17:56:09 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[11-Feb-2021 17:56:09 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[12-Feb-2021 11:20:35 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[12-Feb-2021 11:20:35 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[13-Feb-2021 11:01:25 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[13-Feb-2021 11:01:25 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[14-Feb-2021 15:31:18 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[14-Feb-2021 15:31:18 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[16-Feb-2021 12:18:31 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[16-Feb-2021 12:18:31 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[16-Feb-2021 16:03:23 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[16-Feb-2021 16:03:23 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[16-Feb-2021 16:03:23 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Feb-2021 14:56:10 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Feb-2021 14:56:11 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Feb-2021 14:56:11 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Feb-2021 16:54:19 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Feb-2021 16:54:19 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Feb-2021 16:54:19 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Feb-2021 18:58:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[17-Feb-2021 18:58:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Feb-2021 11:04:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Feb-2021 11:04:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Feb-2021 11:04:00 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Feb-2021 13:42:38 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Feb-2021 13:42:38 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Feb-2021 15:34:10 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Feb-2021 15:34:10 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Feb-2021 19:20:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[18-Feb-2021 19:20:07 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 02:16:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 02:16:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 02:16:02 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 09:01:52 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 09:01:52 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 09:01:53 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 09:01:53 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 09:01:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 09:01:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 09:01:55 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 09:24:34 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 09:24:34 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[19-Feb-2021 09:24:34 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[20-Feb-2021 10:20:01 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[20-Feb-2021 10:20:01 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[20-Feb-2021 10:20:01 America/New_York] PHP Notice:  Undefined index: id in /home/direkzou/public_html/en/uradmin/session.php on line 11
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'direkzou_direkzou'@'localhost' (using password: YES) in /home/provqfsu/public_html/en/uradmin/dbcon.php on line 2
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'direkzou_direkzou'@'localhost' (using password: YES) in /home/provqfsu/public_html/en/uradmin/dbcon.php on line 2
+[02-Mar-2021 04:25:42 America/New_York] PHP Notice:  Undefined index: id in /home/provqfsu/public_html/en/uradmin/session.php on line 11
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/provqfsu/public_html/en/uradmin/session.php on line 13
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/provqfsu/public_html/en/uradmin/session.php on line 14
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'direkzou_direkzou'@'localhost' (using password: YES) in /home/provqfsu/public_html/en/uradmin/dbcon.php on line 2
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'direkzou_direkzou'@'localhost' (using password: YES) in /home/provqfsu/public_html/en/uradmin/dbcon.php on line 2
+[02-Mar-2021 04:25:42 America/New_York] PHP Notice:  Undefined index: id in /home/provqfsu/public_html/en/uradmin/session.php on line 11
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/provqfsu/public_html/en/uradmin/session.php on line 13
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/provqfsu/public_html/en/uradmin/session.php on line 14
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'direkzou_direkzou'@'localhost' (using password: YES) in /home/provqfsu/public_html/en/uradmin/dbcon.php on line 2
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'direkzou_direkzou'@'localhost' (using password: YES) in /home/provqfsu/public_html/en/uradmin/dbcon.php on line 2
+[02-Mar-2021 04:25:42 America/New_York] PHP Notice:  Undefined index: id in /home/provqfsu/public_html/en/uradmin/session.php on line 11
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/provqfsu/public_html/en/uradmin/session.php on line 13
+[02-Mar-2021 04:25:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/provqfsu/public_html/en/uradmin/session.php on line 14
+[02-Mar-2021 04:25:43 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'direkzou_direkzou'@'localhost' (using password: YES) in /home/provqfsu/public_html/en/uradmin/dbcon.php on line 2
+[02-Mar-2021 10:31:56 America/New_York] PHP Notice:  Undefined index: id in /home/provqfsu/public_html/en/uradmin/session.php on line 11
+[02-Mar-2021 10:31:56 America/New_York] PHP Notice:  Undefined index: id in /home/provqfsu/public_html/en/uradmin/session.php on line 11
+[09-Mar-2021 16:11:26 America/New_York] PHP Notice:  Undefined index: id in /home/provqfsu/public_html/en/uradmin/session.php on line 11
+[09-Mar-2021 16:11:26 America/New_York] PHP Notice:  Undefined index: id in /home/provqfsu/public_html/en/uradmin/session.php on line 11
+[09-Mar-2021 16:11:26 America/New_York] PHP Notice:  Undefined index: id in /home/provqfsu/public_html/en/uradmin/session.php on line 11
